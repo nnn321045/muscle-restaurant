@@ -1,24 +1,8 @@
-#  健康餐 - 肌肉鮮生網站
+# 健康餐 - 肌肉鮮生網站
+ - 利用 vue-cli 環境建置專案
+ - vue-router 製作 SPA網頁開發
+ - 使用 scss 預處理
+ - RWD 響應式網頁
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-"# muscle-restaurant" 
-"# muscle-restaurant" 
-"# muscle-restaurant" 
-"# muscle-restaurant"  "# muscle-restaurant" 
-"# muscle-restaurant" 
+# GitHub Pages
+http://ken-cens.com/~liyanboc/dist/index.html#/
