@@ -5,4 +5,4 @@
  - RWD 響應式網頁
 
 # GitHub Pages
-http://ken-cens.com/~liyanboc/dist/index.html#/
+https://ken-cens.com/~liyanboc/restaurant/index.html#/
